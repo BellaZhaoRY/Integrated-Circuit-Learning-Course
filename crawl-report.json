@@ -1,0 +1,50 @@
+{
+  "started_at": "2026-09-04T13:08:40.329911+00:00",
+  "finished_at": "2026-09-04T13:12:04.592739+00:00",
+  "user": "icheima",
+  "book_slug": null,
+  "books_discovered": 24,
+  "books_succeeded": 24,
+  "documents_discovered": 974,
+  "documents_succeeded": 970,
+  "documents_failed": 4,
+  "assets_downloaded": 3908,
+  "failures": [
+    {
+      "type": "document",
+      "source": "https://www.yuque.com/icheima/we22b4/sa6sqacx1ioxfapx",
+      "title": "03-电机驱动AT8236",
+      "error": "GET failed: https://www.yuque.com/api/docs/sa6sqacx1ioxfapx: 404 Client Error: Not Found for url: https://www.yuque.com/api/docs/sa6sqacx1ioxfapx?book_id=37216751"
+    },
+    {
+      "type": "document",
+      "source": "https://www.yuque.com/icheima/tglbbf/mpqo8otix630ss92",
+      "title": "02.打个日志试试",
+      "error": "GET failed: https://www.yuque.com/api/docs/mpqo8otix630ss92: 404 Client Error: Not Found for url: https://www.yuque.com/api/docs/mpqo8otix630ss92?book_id=71533592"
+    },
+    {
+      "type": "document",
+      "source": "https://www.yuque.com/icheima/tglbbf/ogdng76nxmxtkui2",
+      "title": "03.SPI通信",
+      "error": "GET failed: https://www.yuque.com/api/docs/ogdng76nxmxtkui2: 404 Client Error: Not Found for url: https://www.yuque.com/api/docs/ogdng76nxmxtkui2?book_id=71533592"
+    },
+    {
+      "type": "document",
+      "source": "https://www.yuque.com/icheima/tglbbf/pd9y301gg2po5sxk",
+      "title": "06.触摸驱动",
+      "error": "GET failed: https://www.yuque.com/api/docs/pd9y301gg2po5sxk: 404 Client Error: Not Found for url: https://www.yuque.com/api/docs/pd9y301gg2po5sxk?book_id=71533592"
+    },
+    {
+      "type": "asset",
+      "document": "https://www.yuque.com/icheima/vg9y28/dn8b02hyeypbzh4m",
+      "url": "https://www.yuque.com/api/filetransfer/images?url=assets%2F01.png&sign=3bf7085157013b9d10b0aa20076de97d522f4d3a5908de55206086e3b915e969&date=1717661925646",
+      "error": "GET failed: https://www.yuque.com/api/filetransfer/images?url=assets%2F01.png&sign=3bf7085157013b9d10b0aa20076de97d522f4d3a5908de55206086e3b915e969&date=1717661925646: 422 Client Error: Unprocessable Entity for url: https://www.yuque.com/api/filetransfer/images?url=assets%2F01.png&sign=3bf7085157013b9d10b0aa20076de97d522f4d3a5908de55206086e3b915e969&date=1717661925646"
+    },
+    {
+      "type": "asset",
+      "document": "https://www.yuque.com/icheima/vg9y28/dn8b02hyeypbzh4m",
+      "url": "https://www.yuque.com/api/filetransfer/images?url=assets%2F01.png&sign=3bf7085157013b9d10b0aa20076de97d522f4d3a5908de55206086e3b915e969&date=1717661925646",
+      "error": "GET failed: https://www.yuque.com/api/filetransfer/images?url=assets%2F01.png&sign=3bf7085157013b9d10b0aa20076de97d522f4d3a5908de55206086e3b915e969&date=1717661925646: 422 Client Error: Unprocessable Entity for url: https://www.yuque.com/api/filetransfer/images?url=assets%2F01.png&sign=3bf7085157013b9d10b0aa20076de97d522f4d3a5908de55206086e3b915e969&date=1717661925646"
+    }
+  ]
+}

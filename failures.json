@@ -1,0 +1,28 @@
+[
+  {
+    "item_ref": "03-电机驱动AT8236",
+    "stage": "download",
+    "reason": "source_not_found"
+  },
+  {
+    "item_ref": "02.打个日志试试",
+    "stage": "download",
+    "reason": "source_not_found"
+  },
+  {
+    "item_ref": "03.SPI通信",
+    "stage": "download",
+    "reason": "source_not_found"
+  },
+  {
+    "item_ref": "06.触摸驱动",
+    "stage": "download",
+    "reason": "source_not_found"
+  },
+  {
+    "item_ref": "https://www.yuque.com/icheima/vg9y28/dn8b02hyeypbzh4m",
+    "stage": "asset_download",
+    "reason": "source_unavailable",
+    "occurrences": 2
+  }
+]

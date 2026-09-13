@@ -1,0 +1,75 @@
+{
+  "handoff_version": "yichen-content-handoff/v1",
+  "producer_skill": "yichen-content-archive",
+  "operation": "content_archive",
+  "scope": {
+    "platforms": [
+      "yuque"
+    ],
+    "input_kind": "known_collection",
+    "discovery_performed": false,
+    "container_ref": "https://www.yuque.com/icheima",
+    "enumeration_count": 974,
+    "enumeration_truncated": false
+  },
+  "authorization": {
+    "private_read_authorized_this_turn": null,
+    "download_authorized_this_turn": true,
+    "authorization_not_transferable": true
+  },
+  "artifacts": [
+    {
+      "kind": "local_site",
+      "path": "E:\\Resilio_Sync\\RS_Obsidian\\03-Areas\\具身智能\\语雀知识库_icheima_层级镜像\\index.html",
+      "count": 1
+    },
+    {
+      "kind": "enumerated_urls",
+      "path": "E:\\Resilio_Sync\\RS_Obsidian\\03-Areas\\具身智能\\语雀知识库_icheima_层级镜像\\enumerated-urls.txt",
+      "count": 974
+    },
+    {
+      "kind": "archive_manifest",
+      "path": "E:\\Resilio_Sync\\RS_Obsidian\\03-Areas\\具身智能\\语雀知识库_icheima_层级镜像\\archive-manifest.jsonl",
+      "count": 974
+    },
+    {
+      "kind": "failure_manifest",
+      "path": "E:\\Resilio_Sync\\RS_Obsidian\\03-Areas\\具身智能\\语雀知识库_icheima_层级镜像\\failures.json",
+      "count": 5
+    }
+  ],
+  "counts": {
+    "input": 974,
+    "success": 970,
+    "failed": 4,
+    "skipped": 0,
+    "unsupported": 0
+  },
+  "failures": [
+    {
+      "item_ref": "03-电机驱动AT8236",
+      "stage": "download",
+      "reason": "source_not_found"
+    },
+    {
+      "item_ref": "02.打个日志试试",
+      "stage": "download",
+      "reason": "source_not_found"
+    },
+    {
+      "item_ref": "03.SPI通信",
+      "stage": "download",
+      "reason": "source_not_found"
+    },
+    {
+      "item_ref": "06.触摸驱动",
+      "stage": "download",
+      "reason": "source_not_found"
+    }
+  ],
+  "next_step": {
+    "action": "none",
+    "requires_explicit_user_request": true
+  }
+}

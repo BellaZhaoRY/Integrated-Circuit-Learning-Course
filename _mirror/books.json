@@ -1,0 +1,146 @@
+[
+  {
+    "id": 37243904,
+    "rank": 1,
+    "name": "学习路线图",
+    "slug": "iaqp70"
+  },
+  {
+    "id": 37974170,
+    "rank": 2,
+    "name": "模电数电基础",
+    "slug": "iqy7od"
+  },
+  {
+    "id": 38003534,
+    "rank": 3,
+    "name": "C语言",
+    "slug": "cprogram"
+  },
+  {
+    "id": 37109858,
+    "rank": 4,
+    "name": "STC8增强型单片机开发",
+    "slug": "stc8h"
+  },
+  {
+    "id": 37685658,
+    "rank": 5,
+    "name": "Python与上位机开发",
+    "slug": "python"
+  },
+  {
+    "id": 50258252,
+    "rank": 6,
+    "name": "ARM32开发",
+    "slug": "arm32"
+  },
+  {
+    "id": 42427030,
+    "rank": 7,
+    "name": "LVGL开发教程",
+    "slug": "vzsofu"
+  },
+  {
+    "id": 42298904,
+    "rank": 8,
+    "name": "杰理WIFI&蓝牙物联网开发教程",
+    "slug": "oe12qp"
+  },
+  {
+    "id": 37773614,
+    "rank": 9,
+    "name": "OpenHarmony开发",
+    "slug": "bzhy1r"
+  },
+  {
+    "id": 57636308,
+    "rank": 10,
+    "name": "Linux",
+    "slug": "linux"
+  },
+  {
+    "id": 76289236,
+    "rank": 11,
+    "name": "Linux高级",
+    "slug": "linux_adv"
+  },
+  {
+    "id": 41067235,
+    "rank": 12,
+    "name": "ROS机器人操作系统",
+    "slug": "ros2"
+  },
+  {
+    "id": 37921911,
+    "rank": 13,
+    "name": "机器学习",
+    "slug": "ypa3in"
+  },
+  {
+    "id": 42076275,
+    "rank": 14,
+    "name": "《STM32入门➡入职》随堂资料",
+    "slug": "phw139"
+  },
+  {
+    "id": 42449284,
+    "rank": 15,
+    "name": "多路舵机机械狗",
+    "slug": "shqi78"
+  },
+  {
+    "id": 37216751,
+    "rank": 16,
+    "name": "平衡车案例",
+    "slug": "we22b4"
+  },
+  {
+    "id": 42443043,
+    "rank": 17,
+    "name": "学个锤子🔨",
+    "slug": "sb5eoe"
+  },
+  {
+    "id": 53647379,
+    "rank": 18,
+    "name": "元气4WD小车资料",
+    "slug": "vg9y28"
+  },
+  {
+    "id": 55220897,
+    "rank": 19,
+    "name": "ESP32",
+    "slug": "fm1kog"
+  },
+  {
+    "id": 65323920,
+    "rank": 20,
+    "name": "嵌入式C语言基础",
+    "slug": "ec"
+  },
+  {
+    "id": 68409782,
+    "rank": 21,
+    "name": "老学员课程更新专享",
+    "slug": "rbns29"
+  },
+  {
+    "id": 80448716,
+    "rank": 22,
+    "name": "OpenDuck",
+    "slug": "qf08ml"
+  },
+  {
+    "id": 37455468,
+    "rank": 23,
+    "name": "GD32/STM32开发",
+    "slug": "gd32"
+  },
+  {
+    "id": 71533592,
+    "rank": 24,
+    "name": "实战小项目",
+    "slug": "tglbbf"
+  }
+]
