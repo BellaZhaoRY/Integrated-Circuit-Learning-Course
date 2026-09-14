@@ -1,14 +1,14 @@
 {
-  "started_at": "2026-09-04T13:08:40.329911+00:00",
-  "finished_at": "2026-09-04T13:12:04.592739+00:00",
+  "started_at": "2026-09-14T06:36:20.499678+00:00",
+  "finished_at": "2026-09-14T06:36:54.154702+00:00",
   "user": "icheima",
-  "book_slug": null,
-  "books_discovered": 24,
-  "books_succeeded": 24,
-  "documents_discovered": 974,
-  "documents_succeeded": 970,
+  "book_slug": "th7wl6",
+  "books_discovered": 1,
+  "books_succeeded": 25,
+  "documents_discovered": 41,
+  "documents_succeeded": 1011,
   "documents_failed": 4,
-  "assets_downloaded": 3908,
+  "assets_downloaded": 3966,
   "failures": [
     {
       "type": "document",
